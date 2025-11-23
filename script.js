@@ -6,9 +6,9 @@
 // ------------------ ROTATING "CURRENTLY" TEXT ------------------
 const roles = [
     "working on electronic warfare",
-    "thinking about taming complex systems",
+    "taming complex systems",
     "connecting algorithms to hardware",
-    "trying to engineer a safer future",
+    "engineering a safer future",
   ];
   
   let roleIndex = 0;
